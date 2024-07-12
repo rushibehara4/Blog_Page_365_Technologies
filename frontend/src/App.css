@@ -8,6 +8,19 @@
   padding: 7px 40px;
 }
 
+img.img-small.me-2 {
+  margin-top: -6px !important;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  white-space: pre-wrap; /* ensures new lines are respected */
+  word-wrap: break-word;  /* ensures long lines are wrapped */
+}
+
 /* home css  */
 
 .home-container {
